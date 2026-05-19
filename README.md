@@ -1,4 +1,3 @@
-
 <div align="center">
 
 <img src="https://usagif.com/wp-content/uploads/gifs/starfall-gif-45.gif" width="100%" />
@@ -33,7 +32,7 @@
 
 ## 👨‍🚀 PERFIL DE MISIÓN
 
-yaml
+
 NombreClave: UlisesDM
 Rol: Ingeniero Full Stack Espacial
 Tecnologías: Laravel + Vue 3 + SQL
@@ -43,3 +42,24 @@ Misión:
   - Construir sistemas escalables 🚀
   - Explorar interfaces espaciales 🌌
   - Automatizar procesos planetarios 🪐
+🛰️ ESTACIÓN TECNOLÓGICA
+<p align="center"> <img src="https://skillicons.dev/icons?i=laravel,vue,php,mysql,js,nodejs,linux,git,vscode,html,css,tailwind" /> </p>
+🌠 ESTADÍSTICAS GALÁCTICAS
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=UlisesDM&show_icons=true&theme=tokyonight&hide_border=true" height="180"/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=UlisesDM&theme=tokyonight&hide_border=true" height="180"/> </p>
+🌌 MAPA DE ACTIVIDAD
+<p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=UlisesDM&theme=tokyo-night&hide_border=true" width="95%"/> </p>
+🐍 SERPIENTE DE CONTRIBUCIONES
+<p align="center"> <img src="https://raw.githubusercontent.com/UlisesDM/UlisesDM/output/snake.svg" /> </p>
+🚀 MISIONES ACTUALES
+🛰️ Sistemas administrativos
+🌌 Arquitectura backend
+🚀 Laravel + Vue 3
+🪐 Optimización de rendimiento
+🌠 Interfaces futuristas
+🌍 FRASE ESPACIAL
+
+“En el universo del código, cada línea crea una estrella.”
+
+📡 CONTACTO
+<p align="center"> <a href="https://github.com/UlisesDM"> <img src="https://img.shields.io/badge/GitHub-Centro_de_Control-0d1117?style=for-the-badge&logo=github" /> </a> </p>
+<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4CC9F0,25:3A0CA3,50:1B2A6B,75:0B1026,100:050816&height=120&section=footer" /> </div> ```
