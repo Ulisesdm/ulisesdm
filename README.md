@@ -1,16 +1,12 @@
 <div align="center">
 
-<img src="https://imgs.search.brave.com/Fj3Luh_OKhqHt70mXVz67u2m8SY32md4WgK0ObX6mSY/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly91c2Fn/aWYuY29tL3dwLWNv/bnRlbnQvdXBsb2Fk/cy9naWYvb3V0ZXJz/cGFjZS0zOS5naWY.gif" width="100%" />
+<img src="https://imgs.search.brave.com/Fj3Luh_OKhqHt70mXVz67u2m8SY32md4WgK0ObX6mSY/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly91c2Fn/aWYuY29tL3dwLWNv/bnRlbnQvdXBsb2Fk/cy9naWYvb3V0ZXJz/cGFjZS0zOS5naWY.gif?type=waving&height=300&color=0:050816,25:0B1026,50:1B2A6B,75:3A0CA3,100:4CC9F0&text=ULISES%20DM&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=INGENIERO%20FULL%20STACK%20🚀&descAlignY=58" width="100%" />
 
 </div>
 
 ---
 
-<div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:050816,25:0B1026,50:1B2A6B,75:3A0CA3,100:4CC9F0&text=ULISES%20DM&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=INGENIERO%20FULL%20STACK%20🚀&descAlignY=58" width="100%" />
-
-</div>
 
 ---
 
