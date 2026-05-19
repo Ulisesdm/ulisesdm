@@ -36,12 +36,12 @@
 NombreClave: UlisesDM
 Rol: Ingeniero Full Stack Espacial
 Tecnologías: Laravel + Vue 3 + SQL
-Base: Tierra / Ciudad de México
+Base: Tierra /Toluca-Ciudad de México
 
 Misión:
-  - Construir sistemas escalables 🚀
-  - Explorar interfaces espaciales 🌌
-  - Automatizar procesos planetarios 🪐
+  - Construir sistemas 🚀
+  - Explorar interfaces 🌌
+  - Automatizar procesos 🪐
 🛰️ ESTACIÓN TECNOLÓGICA
 <p align="center"> <img src="https://skillicons.dev/icons?i=laravel,vue,php,mysql,js,nodejs,linux,git,vscode,html,css,tailwind" /> </p>
 🌠 ESTADÍSTICAS GALÁCTICAS
@@ -58,7 +58,7 @@ Misión:
 🌠 Interfaces futuristas
 🌍 FRASE ESPACIAL
 
-“En el universo del código, cada línea crea una estrella.”
+“ROCKETMAN....”
 
 📡 CONTACTO
 <p align="center"> <a href="https://github.com/UlisesDM"> <img src="https://img.shields.io/badge/GitHub-Centro_de_Control-0d1117?style=for-the-badge&logo=github" /> </a> </p>
