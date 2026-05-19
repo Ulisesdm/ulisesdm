@@ -1,10 +1,3 @@
-# 🚀 GitHub Profile README — Space Edition
-
-Copia todo este contenido dentro de tu archivo `README.md`
-
----
-
-````md
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:0B1026,25:1B2A6B,50:3A0CA3,75:4361EE,100:4CC9F0&text=Ulises%20DM&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20🚀&descAlignY=58" width="100%" />
@@ -36,182 +29,40 @@ Nombre: Ulises DM
 Rol: Full Stack Developer
 Stack: Laravel + Vue 3 + SQL
 Sistema Operativo: Linux / CentOS
+
 Pasiones:
   - Astronomía 🌌
   - Naves espaciales 🚀
   - Planetas 🪐
   - Ciencia y tecnología ✨
-````
 
----
-
-# 🪐 Tecnologías
-
+🪐 Tecnologías
+<div align="center"> <img src="https://skillicons.dev/icons?i=laravel,vue,php,mysql,js,nodejs,linux,git,vscode,html,css,tailwind" /> </div>
+🌠 Estadísticas galácticas
+<div align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ulisesdm&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" /> <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=ulisesdm&theme=tokyonight&hide_border=true&background=0D1117" /> </div>
+☄️ Actividad en la galaxia
+<div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=ulisesdm&theme=tokyo-night&hide_border=true&bg_color=0D1117" width="95%" /> </div>
+🐍 Snake Animation
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=laravel,vue,php,mysql,js,nodejs,linux,git,vscode,html,css,tailwind" />
-
 </div>
-
----
-
-# 🌠 Estadísticas galácticas
-
+🚀 Misiones actuales
+🛰️ Sistemas administrativos modernos
+🌌 Automatización de procesos
+🚀 Desarrollo Laravel + Vue 3
+🪐 Interfaces futuristas
+🌠 Optimización y seguridad
+🌍 Universo visual
+<div align="center"> <img src="https://media.giphy.com/media/l0HlNaQ6gWfllcjDO/giphy.gif" width="250" /> <img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" width="250" /> <img src="https://media.giphy.com/media/xTiTnxpQ3ghPiB2Hp6/giphy.gif" width="250" /> </div>
+🌌 Frase favorita
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=TU_USUARIO&theme=tokyonight&hide_border=true&background=0D1117" />
-
-</div>
-
----
-
-# ☄️ Actividad en la galaxia
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=TU_USUARIO&theme=tokyo-night&hide_border=true&bg_color=0D1117" width="95%" />
+"Somewhere, something incredible is waiting to be known."
+— Carl Sagan
 
 </div>
-
----
-
-# 🐍 Snake Animation
-
-<div align="center">
-
-![Snake animation](https://raw.githubusercontent.com/TU_USUARIO/TU_USUARIO/output/github-contribution-grid-snake-dark.svg)
-
-</div>
-
----
-
-# 🚀 Misiones actuales
-
-* 🛰️ Sistemas administrativos modernos
-* 🌌 Automatización de procesos
-* 🚀 Desarrollo Laravel + Vue 3
-* 🪐 Interfaces futuristas
-* 🌠 Optimización y seguridad
-
----
-
-# 🌍 Universo visual
-
-<div align="center">
-
-<img src="https://media.giphy.com/media/l0HlNaQ6gWfllcjDO/giphy.gif" width="250" />
-<img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" width="250" />
-<img src="https://media.giphy.com/media/xTiTnxpQ3ghPiB2Hp6/giphy.gif" width="250" />
-
-</div>
-
----
-
-# 🌌 Frase favorita
-
-<div align="center">
-
-> "Somewhere, something incredible is waiting to be known."
-> — Carl Sagan
-
-</div>
-
----
-
-# 🌠 Visitas al perfil
-
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=TU_USUARIO&label=Exploradores&color=0e75b6&style=for-the-badge" />
-
-</div>
-
----
-
-# 📡 Conecta conmigo
-
-<div align="center">
-
-<a href="https://github.com/TU_USUARIO">
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4CC9F0,25:4361EE,50:3A0CA3,75:1B2A6B,100:0B1026&height=120&section=footer" width="100%" />
-
-</div>
-```
-
----
-
-# ⚠️ IMPORTANTE
-
-Debes reemplazar:
-
-```txt
-TU_USUARIO
-```
-
-por tu usuario real de GitHub.
-
-Ejemplo:
-
-```txt
-ulisesdm
-```
-
----
-
-# 🐍 Cómo activar la Snake Animation
-
-Crea este archivo:
-
-```txt
-.github/workflows/snake.yml
-```
-
-Y pega esto:
-
-```yml
-name: Generate Snake
-
-on:
-  schedule:
-    - cron: "0 */12 * * *"
-
-  workflow_dispatch:
-
-jobs:
-  build:
-    runs-on: ubuntu-latest
-
-    steps:
-      - uses: Platane/snk@v3
-        with:
-          github_user_name: TU_USUARIO
-          outputs: |
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-
-      - uses: crazy-max/ghaction-github-pages@v4
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
-
-Después:
-
-1. Ve a tu repositorio
-2. Actions
-3. Enable workflows
-4. Espera unos minutos
-
-Y aparecerá la serpiente animada 🐍🚀
+🌠 Visitas al perfil
+<div align="center"> <img src="https://komarev.com/ghpvc/?username=ulisesdm&label=Exploradores&color=0e75b6&style=for-the-badge" /> </div>
+📡 Conecta conmigo
+<div align="center"> <a href="https://github.com/ulisesdm"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /> </a> </div>
+<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4CC9F0,25:4361EE,50:3A0CA3,75:1B2A6B,100:0B1026&height=120&section=footer" width="100%" /> </div> ```
