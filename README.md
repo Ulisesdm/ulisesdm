@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" width="100%" />
+<img src="https://media.giphy.com/media/iicDrNGWxHmDrIni6j/giphy.gif" width="100%" />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,25:0B1026,50:1B2A6B,75:3A0CA3,100:4CC9F0&height=250&text=ULISES%20DM&fontColor=ffffff" width="100%" />
 
 </div>
 <div align="center">
