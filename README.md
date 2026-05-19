@@ -1,5 +1,10 @@
 <div align="center">
 
+<img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" width="100%" />
+
+</div>
+<div align="center">
+
 <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:050816,25:0B1026,50:1B2A6B,75:3A0CA3,100:4CC9F0&text=ULISES%20DM&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=INGENIERO%20FULL%20STACK%20🚀&descAlignY=58" width="100%" />
 
 </div>
