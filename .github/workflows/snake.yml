@@ -19,7 +19,7 @@ jobs:
       - name: Generate snake
         uses: Platane/snk@v3
         with:
-          github_user_name: ulisesdm
+          github_user_name: UlisesDM
           outputs: dist/snake.svg
 
       - name: Commit & Push
