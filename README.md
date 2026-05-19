@@ -36,7 +36,7 @@
 NombreClave: UlisesDM
 Rol: Ingeniero Full Stack Espacial
 Tecnologías: Laravel + Vue 3 + SQL
-Base: Tierra /Toluca-Ciudad de México
+Base: Tierra / Toluca - Ciudad de México
 
 Misión:
   - Construir sistemas 🚀
