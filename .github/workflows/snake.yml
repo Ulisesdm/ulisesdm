@@ -5,24 +5,30 @@ on:
   schedule:
     - cron: "0 */12 * * *"
 
+permissions:
+  contents: write
+
 jobs:
   build:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout
+      - name: Checkout repo
         uses: actions/checkout@v4
 
-      - name: Generate snake SVG
+      - name: Generate snake
         uses: Platane/snk@v3
         with:
-          github_user_name: UlisesDM
+          github_user_name: ulisesdm
           outputs: dist/snake.svg
 
       - name: Commit snake file
         run: |
           git config --global user.name "github-actions"
-          git config --global user.email "actions@github.com"
+          git config --global user.email "github-actions@github.com"
+
           git add dist/snake.svg
+
           git commit -m "generate snake" || echo "no changes"
+
           git push
